@@ -62,18 +62,6 @@
          "signal":"a",
          "ServerUsername":"",
          "ServerPassword":""
-      },
-      {
-         "id":4,
-         "file":4,
-         "city":"UnitedState",
-         "country":"UnitedState",
-         "image":"unitedstates",
-         "ip":"159.69.125.44",
-         "active":"false",
-         "signal":"a",
-         "ServerUsername":"",
-         "ServerPassword":""
       }
    ],
    "AppID":"ca-app-pub-5953075168817453~1721654907",
