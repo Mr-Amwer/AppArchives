@@ -70,7 +70,7 @@
          "country":"UnitedState",
          "image":"unitedstates",
          "ip":"159.69.125.44",
-         "active":"true",
+         "active":"false",
          "signal":"a",
          "ServerUsername":"",
          "ServerPassword":""
