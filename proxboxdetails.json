@@ -1,0 +1,15 @@
+{
+   "ads":"true",
+   "ShowBanerAd":"true",
+   "ShowInitAd":"true",
+   "update":{
+      "version":"1.030",
+      "title":"New Version Released!",
+      "description":"Fix Ads Problem.With New App Icon And New Powerful.",
+      "size":"9",
+      "ForcedUpdate":"true"
+   },
+   "BannerToken":"ca-app-pub-5752122538534810/1101532409",
+   "InitToken":"ca-app-pub-5752122538534810/1013918401",
+   "RewardToken":"ca-app-pub-5953075168817453/9927641507"
+}
