@@ -8,7 +8,7 @@
          "title":"New Version Released!",
          "description":"Fix Ads Problem.With New App Icon And New Powerful Servers.",
          "size":"9",
-         "ForcedUpdate":"true"
+         "ForcedUpdate":"false"
       }
    ],
    "blocked":[
