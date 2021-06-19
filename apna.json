@@ -4,7 +4,7 @@
    "MasterPassword":"123",
    "update":[
       {
-         "version":"2.010",
+         "version":"2.030",
          "title":"New Version Released!",
          "description":"Add new feature like : Fast Start up , Auto reconnect ,... And  new powerful Servers.",
          "size":"10",
