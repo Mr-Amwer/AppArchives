@@ -8,7 +8,7 @@
          "title":"New Version Released!",
          "description":"Add new feature like : Fast Start up , Auto reconnect ,... And  new powerful Servers.",
          "size":"10",
-         "ForcedUpdate":"false"
+         "ForcedUpdate":"true"
       }
    ],
    "blocked":[
