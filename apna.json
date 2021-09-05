@@ -23,7 +23,7 @@
          "image":"germany",
          "ip":"95.217.159.144",
          "active":"true",
-         "signal":"a",
+         "signal":"b",
          "ServerUsername":"",
          "ServerPassword":""
       },
@@ -35,7 +35,7 @@
          "image":"unitedstates",
          "ip":"95.217.159.144",
          "active":"true",
-         "signal":"a",
+         "signal":"b",
          "ServerUsername":"",
          "ServerPassword":""
       },
@@ -59,7 +59,7 @@
          "image":"turkey",
          "ip":"192.168.1.1",
          "active":"true",
-         "signal":"a",
+         "signal":"c",
          "ServerUsername":"",
          "ServerPassword":""
       },
