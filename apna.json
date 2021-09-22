@@ -17,12 +17,12 @@
    "free":[
       {
          "id":0,
-         "file":0,
+         "file":1,
          "city":"Germany",
          "country":"germany",
          "image":"germany",
          "ip":"95.217.159.144",
-         "active":"true",
+         "active":"false",
          "signal":"b",
          "ServerUsername":"",
          "ServerPassword":""
